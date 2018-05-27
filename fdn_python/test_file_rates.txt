@@ -1,0 +1,26 @@
+Job Title,Hourly Rate 
+Admin Staff Asst,29.58
+Publc Relations Spec,29.09
+Cooperative Intern *,16.12
+"StratAdvsr3,Exempt",48.71
+Arts Prgm Spec,35.93
+"StratAdvsr1,General Govt",39.29
+Maint Laborer,25.39
+"Accountant,Sr",39.96
+Executive2,62.59
+"StratAdvsr1,Exempt",39.29
+Admin Spec III,27.45
+"Arts Prgm Spec,Sr",36.58
+Arts Conserv Tech,30.17
+Arts Prgm Supv,44.23
+Events Booking Rep,31.31
+"Publc Relations Spec,Sr",35.16
+"Manager1,Exempt",55.57
+Actg Tech III,29.09
+Admin Staff Anlyst,35.16
+"Stage Tech,Lead",32.81
+"StratAdvsr2,Exempt",57.79
+StratAdvsr-Audit,56.24
+Exec Manager-City Auditor,72.84
+Exec Asst,41.77
+Muni Government Intern *,19.76
